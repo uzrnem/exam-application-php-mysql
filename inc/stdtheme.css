@@ -1,0 +1,28 @@
+
+a.tryitbtn,a.tryitbtn:link,a.tryitbtn:visited,a.showbtn,a.showbtn:link,a.showbtn:visited
+{
+display:inline-block;
+color:#FFFFFF;
+background-color:#B0C4DE;
+font-weight:bold;
+font-size:12px;
+text-align:center;
+padding-left:10px;
+padding-right:10px;
+padding-top:3px;
+padding-bottom:4px;
+text-decoration:none;
+margin-left:0;
+/*margin-left:5px;*/
+margin-top:0px;
+margin-bottom:5px;
+border:1px solid #aaaaaa;
+border:1px solid #B0C4DE;
+border-radius:5px;
+white-space:nowrap;
+}
+
+a.tryitbtn:hover,a.tryitbtn:active,a.showbtn:hover,a.showbtn:active
+{
+background-color:#ffffff;color:#B0C4DE;
+}
